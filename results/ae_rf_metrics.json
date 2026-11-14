@@ -1,0 +1,11 @@
+{
+    "model": "Autoencoder + Random Forest",
+    "accuracy": 0.8658844677646601,
+    "precision": 0.8183962264150944,
+    "recall": 0.9721388864378364,
+    "f1_score": 0.8886670699737851,
+    "roc_auc": 0.9712280424781969,
+    "autoencoder_training_time": 37.76614022254944,
+    "classifier_training_time": 31.68369197845459,
+    "total_training_time": 69.44983220100403
+}
